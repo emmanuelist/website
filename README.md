@@ -4,8 +4,8 @@ This is really awesome website
 
 Updates made on master on GitHub before rebase
 
+<<<<<<< HEAD
 ## Repository Purpose
 
-This will be a change that conflicts
-with Whatever is on the remote side.
-This was edited locally.
+This file is just a readme file.
+>>>>>>> 2fb7e9cac4fafacffa2563b832f558a7843d033f
